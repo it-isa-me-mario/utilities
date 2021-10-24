@@ -4,5 +4,17 @@
   ],
   "version": "independent",
   "npmClient": "yarn",
-  "useWorkspaces": true
+  "useWorkspaces": true,
+  "command": {
+    "publish": {
+      "conventionalCommits": true
+    },
+    "version": {
+      "allowBranch": "main",
+      "conventionalCommits": true,
+      "push": true,
+      "createRelease": "github",
+      "message": "chore(release): publish"
+    }
+  }
 }
