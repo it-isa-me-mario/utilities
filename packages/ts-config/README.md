@@ -1,0 +1,1 @@
+# `@AkuaLabs/ts-config`
