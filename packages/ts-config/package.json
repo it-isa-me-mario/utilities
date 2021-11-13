@@ -1,6 +1,6 @@
 {
   "name": "@akualabs/ts-config",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "TypeScript configuration for Akua Projects",
   "author": "@akualabs",
   "homepage": "https://github.com/AkuaLabs/utilities/tree/main/packages/ts-config",
