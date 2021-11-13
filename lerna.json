@@ -15,6 +15,10 @@
       "push": true,
       "createRelease": "github",
       "message": "chore(release): publish"
+    },
+    "create": {
+      "license": "MIT",
+      "keywords": ["akua"]
     }
   }
 }
