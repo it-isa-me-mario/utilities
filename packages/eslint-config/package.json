@@ -1,0 +1,31 @@
+{
+  "name": "@akualabs/eslint-config",
+  "version": "0.0.0",
+  "description": "ESLint configuration for Akua Projects",
+  "author": "@akualabs",
+  "homepage": "https://github.com/AkuaLabs/utilities/tree/main/packages/eslint-config",
+  "license": "MIT",
+  "main": "dist/eslintrc.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkuaLabs/utilities.git",
+    "directory": "packages/eslint-config"
+  },
+  "bugs": {
+    "url": "https://github.com/AkuaLabs/utilities/issues"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.3.0",
+    "@typescript-eslint/parser": "^5.3.0",
+    "eslint": "^8.2.0"
+  },
+  "files": [
+    "dist/eslintrc.js"
+  ]
+}
