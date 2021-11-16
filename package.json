@@ -8,7 +8,8 @@
     "typescript": "^4.4.4"
   },
   "scripts": {
-    "build:ec": "lerna run build --scope=@akualabs/eslint-config"
+    "build:ec": "lerna run build --scope=@akualabs/eslint-config",
+    "lint": "eslint . --ext=.ts --fix"
   },
   "workspaces": [
     "packages/*"
