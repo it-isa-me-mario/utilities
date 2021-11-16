@@ -44,7 +44,7 @@ export const eslintConfig = {
     ],
     "@typescript-eslint/consistent-indexed-object-style": [
       2,
-      "record"
+      "record",
     ],
     "@typescript-eslint/consistent-type-definitions": [
       2,
