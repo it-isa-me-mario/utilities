@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.3.2](https://github.com/AkuaLabs/utilities/compare/@akualabs/eslint-config@0.3.0...@akualabs/eslint-config@0.3.2) (2021-11-16)
+
+
+### Bug Fixes
+
+* thanks JSON ABC ([3c7d07c](https://github.com/AkuaLabs/utilities/commit/3c7d07cfe4bbdac912f5dc3556c54af9d2ab66d5))
+* thanks JSON ABC ([588af46](https://github.com/AkuaLabs/utilities/commit/588af46b419e3ea13dd558dbdb2fdd73e458ff6f))
+
+
+
+
+
 # [0.3.0](https://github.com/AkuaLabs/utilities/compare/@akualabs/eslint-config@0.2.0...@akualabs/eslint-config@0.3.0) (2021-11-16)
 
 
