@@ -4,6 +4,7 @@
  * and run json-schema-to-typescript to regenerate this file.
  */
 
+// eslint-disable-next-line @typescript-eslint/no-type-alias
 export type Rule = number | ("off" | "warn" | "error") | unknown[];
 
 export interface ESLintConfigType {
@@ -163,9 +164,7 @@ export interface ESLintConfigType {
   /**
    * Set each global variable name equal to true to allow the variable to be overwritten or false to disallow overwriting.
    */
-  globals?: {
-    [k: string]: ("readonly" | "writable" | "off") | boolean;
-  };
+  globals?: Record<string, ("readonly" | "writable" | "off") | boolean>;
   /**
    * Prevent comments from changing config or rules
    */
@@ -254,13 +253,11 @@ export interface ESLintConfigType {
   /**
    * ESLint supports adding shared settings into configuration file. You can add settings object to ESLint configuration file and it will be supplied to every rule that will be executed. This may be useful if you are adding custom rules and want them to have access to the same information and be easily configurable.
    */
-  settings?: {
-    [k: string]: unknown;
-  };
+  settings?: Record<string, unknown>;
   /**
    * Allows to override configuration for files and folders, specified by glob patterns
    */
-  overrides?: {
+  overrides?: Array<{
     /**
      * Glob pattern for files to apply 'overrides' configuration, relative to the directory of the config file
      */
@@ -425,9 +422,7 @@ export interface ESLintConfigType {
     /**
      * Set each global variable name equal to true to allow the variable to be overwritten or false to disallow overwriting.
      */
-    globals?: {
-      [k: string]: ("readonly" | "writable" | "off") | boolean;
-    };
+    globals?: Record<string, ("readonly" | "writable" | "off") | boolean>;
     parser?: string;
     /**
      * The JavaScript language options to be supported
@@ -508,10 +503,8 @@ export interface ESLintConfigType {
     /**
      * ESLint supports adding shared settings into configuration file. You can add settings object to ESLint configuration file and it will be supplied to every rule that will be executed. This may be useful if you are adding custom rules and want them to have access to the same information and be easily configurable.
      */
-    settings?: {
-      [k: string]: unknown;
-    };
-  }[];
+    settings?: Record<string, unknown>;
+  }>;
   [k: string]: unknown;
 }
 export interface PossibleErrors {
