@@ -95,7 +95,7 @@ export const eslintConfig = {
     "@typescript-eslint/no-namespace": 0,
     "@typescript-eslint/no-non-null-asserted-nullish-coalescing": 2,
     "@typescript-eslint/no-require-imports": 2,
-    "@typescript-eslint/no-type-alias": 2,
+    "@typescript-eslint/no-type-alias": 0,
     "@typescript-eslint/no-unnecessary-boolean-literal-compare": 2,
     "@typescript-eslint/no-unnecessary-condition": 2,
     "@typescript-eslint/no-unnecessary-qualifier": 2,
