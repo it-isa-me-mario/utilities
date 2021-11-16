@@ -43,12 +43,12 @@ export const eslintConfig = {
       },
     ],
     "@typescript-eslint/consistent-indexed-object-style": [
-      "record",
       2,
+      "record"
     ],
     "@typescript-eslint/consistent-type-definitions": [
-      "interface",
       2,
+      "interface",
     ],
     "@typescript-eslint/consistent-type-imports": [
       2,
@@ -86,8 +86,8 @@ export const eslintConfig = {
       },
     ],
     "@typescript-eslint/method-signature-style": [
-      "property",
       2,
+      "property",
     ],
     "@typescript-eslint/no-base-to-string": 2,
     "@typescript-eslint/no-confusing-non-null-assertion": 2,
@@ -125,21 +125,21 @@ export const eslintConfig = {
       },
     ],
     "array-bracket-newline": [
-      "consistent",
       2,
+      "consistent",
     ],
     "array-bracket-spacing": [
-      "never",
       2,
+      "never",
     ],
     "array-callback-return": 2,
     "arrow-body-style": [
-      "as-needed",
       2,
+      "as-needed",
     ],
     "arrow-parens": [
-      "as-needed",
       2,
+      "as-needed",
     ],
     "arrow-spacing": [
       2,
@@ -149,19 +149,19 @@ export const eslintConfig = {
       },
     ],
     "block-spacing": [
-      "always",
       2,
+      "always",
     ],
     "brace-style": [
-      "1tbs",
       2,
+      "1tbs",
       {
         "allowSingleLine": true,
       },
     ],
     "comma-dangle": [
-      "always-multiline",
       2,
+      "always-multiline",
     ],
     "comma-spacing": [
       2,
@@ -171,29 +171,29 @@ export const eslintConfig = {
       },
     ],
     "comma-style": [
-      "last",
       2,
+      "last",
     ],
     "computed-property-spacing": [
-      "never",
       2,
+      "never",
     ],
     "curly": [
-      "multi-line",
       2,
+      "multi-line",
     ],
     "default-case": 2,
     "default-case-last": 2,
     "dot-location": [
-      "property",
       2,
+      "property",
     ],
     "dot-notation": 2,
     "eol-last": 2,
     "eqeqeq": 2,
     "func-call-spacing": [
-      "never",
       2,
+      "never",
     ],
     "generator-star-spacing": [
       2,
@@ -203,8 +203,8 @@ export const eslintConfig = {
       },
     ],
     "implicit-arrow-linebreak": [
-      "beside",
       2,
+      "beside",
     ],
     "indent": [
       2,
@@ -221,20 +221,20 @@ export const eslintConfig = {
       },
     ],
     "linebreak-style": [
-      "unix",
       2,
+      "unix",
     ],
     "lines-between-class-members": [
-      "always",
       2,
+      "always",
     ],
     "multiline-ternary": [
-      "always-multiline",
       2,
+      "always-multiline",
     ],
     "new-parens": [
-      "never",
       2,
+      "never",
     ],
     "newline-per-chained-call": [
       2,
@@ -247,8 +247,8 @@ export const eslintConfig = {
     "no-dupe-class-members": 0,
     "no-duplicate-imports": 2,
     "no-extra-parens": [
-      "all",
       2,
+      "all",
       {
         "conditionalAssign": false,
         "enforceForArrowConditionals": false,
@@ -288,8 +288,8 @@ export const eslintConfig = {
     "no-var": 2,
     "no-whitespace-before-property": 2,
     "nonblock-statement-body-position": [
-      "beside",
       2,
+      "beside",
     ],
     "object-curly-newline": [
       2,
@@ -299,32 +299,32 @@ export const eslintConfig = {
       },
     ],
     "object-curly-spacing": [
-      "always",
       2,
+      "always",
     ],
     "prefer-const": 2,
     "prefer-destructuring": 2,
     "prefer-object-spread": 2,
     "prefer-template": 2,
     "quotes": [
-      "double",
       2,
+      "double",
       {
         "allowTemplateLiterals": true,
         "avoidEscape": true,
       },
     ],
     "radix": [
-      "as-needed",
       2,
+      "as-needed",
     ],
     "rest-spread-spacing": [
-      "never",
       2,
+      "never",
     ],
     "semi": [
-      "always",
       2,
+      "always",
     ],
     "semi-spacing": [
       2,
@@ -334,16 +334,16 @@ export const eslintConfig = {
       },
     ],
     "semi-style": [
-      "last",
       2,
+      "last",
     ],
     "space-before-function-paren": [
-      "never",
       2,
+      "never",
     ],
     "space-in-parens": [
-      "never",
       2,
+      "never",
     ],
     "space-unary-ops": [
       2,
