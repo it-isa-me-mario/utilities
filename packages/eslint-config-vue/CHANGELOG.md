@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.0.3](https://github.com/AkuaLabs/utilities/compare/@akualabs/eslint-config-vue@0.0.2...@akualabs/eslint-config-vue@0.0.3) (2021-12-04)
+
+
+### Bug Fixes
+
+* specify parser ([f130801](https://github.com/AkuaLabs/utilities/commit/f1308016c0b86d08bfe14038df6486042a02789a))
+
+
+
+
+
 ## [0.0.2](https://github.com/AkuaLabs/utilities/compare/@akualabs/eslint-config-vue@0.0.1...@akualabs/eslint-config-vue@0.0.2) (2021-12-04)
 
 

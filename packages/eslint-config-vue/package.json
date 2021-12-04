@@ -1,6 +1,6 @@
 {
   "name": "@akualabs/eslint-config-vue",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Vue 3 ESLint configuration for Akua Projects",
   "author": "@akualabs",
   "homepage": "https://github.com/AkuaLabs/utilities/tree/main/packages/eslint-config-vue",
