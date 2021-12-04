@@ -1,4 +1,6 @@
 export const eslintConfig = {
+  root: true,
+  parser: "@typescript-eslint/parser",
   extends: [
     "@akualabs",
     "plugin:vue/vue3-strongly-recommended",
