@@ -9,7 +9,7 @@
   },
   "scripts": {
     "build:ec": "lerna run build --scope=@akualabs/eslint-config",
-    "build:vec": "lerna run build --scope=@akualabs/vue-eslint-config",
+    "build:ecv": "lerna run build --scope=@akualabs/eslint-config-vue",
     "lint": "eslint . --ext=.ts --fix"
   },
   "workspaces": [
