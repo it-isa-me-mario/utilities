@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.0.4](https://github.com/AkuaLabs/utilities/compare/@akualabs/eslint-config-vue@0.0.3...@akualabs/eslint-config-vue@0.0.4) (2021-12-04)
+
+
+### Bug Fixes
+
+* add `.vue` to `extraFileExtensions` ([7230a9b](https://github.com/AkuaLabs/utilities/commit/7230a9b6646b245514ceef62d7e05509175e65ab))
+
+
+
+
+
 ## [0.0.3](https://github.com/AkuaLabs/utilities/compare/@akualabs/eslint-config-vue@0.0.2...@akualabs/eslint-config-vue@0.0.3) (2021-12-04)
 
 
