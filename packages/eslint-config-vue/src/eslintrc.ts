@@ -1,7 +1,8 @@
 export const eslintConfig = {
   root: true,
-  parser: "@typescript-eslint/parser",
+  parser: "vue-eslint-parser",
   parserOptions: {
+    parser: "@typescript-eslint/parser",
     extraFileExtensions: [".vue"],
   },
   extends: [
