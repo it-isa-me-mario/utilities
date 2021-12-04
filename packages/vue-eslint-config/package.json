@@ -1,0 +1,31 @@
+{
+  "name": "@akualabs/vue-eslint-config",
+  "version": "0.0.0",
+  "description": "Vue 3 ESLint configuration for Akua Projects",
+  "author": "@akualabs",
+  "homepage": "https://github.com/AkuaLabs/utilities/tree/main/packages/eslint-config-vue",
+  "license": "MIT",
+  "main": "dist/eslintrc.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkuaLabs/utilities.git",
+    "directory": "packages/eslint-config-vue"
+  },
+  "bugs": {
+    "url": "https://github.com/AkuaLabs/utilities/issues"
+  },
+  "dependencies": {
+    "@akualabs/eslint-config": "^0.4.1",
+    "eslint": "^8.3.0",
+    "eslint-plugin-vue": "^8.1.1"
+  }
+}
