@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.4.2](https://github.com/AkuaLabs/utilities/compare/@akualabs/eslint-config@0.4.0...@akualabs/eslint-config@0.4.2) (2021-12-04)
+
+**Note:** Version bump only for package @akualabs/eslint-config
+
+
+
+
+
 # [0.4.0](https://github.com/AkuaLabs/utilities/compare/@akualabs/eslint-config@0.3.2...@akualabs/eslint-config@0.4.0) (2021-11-16)
 
 
