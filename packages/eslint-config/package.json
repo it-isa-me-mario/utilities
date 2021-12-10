@@ -21,8 +21,8 @@
     "url": "https://github.com/AkuaLabs/utilities/issues"
   },
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^5.3.0",
-    "@typescript-eslint/parser": "^5.3.0",
+    "@typescript-eslint/eslint-plugin": "canary",
+    "@typescript-eslint/parser": "canary",
     "eslint": "^8.2.0"
   },
   "files": [
