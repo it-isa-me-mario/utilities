@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.4.3](https://github.com/AkuaLabs/utilities/compare/@akualabs/eslint-config@0.4.2...@akualabs/eslint-config@0.4.3) (2021-12-10)
+
+
+### Bug Fixes
+
+* update `typescript-eslint` for better TS 4.5 support ([d25ccd3](https://github.com/AkuaLabs/utilities/commit/d25ccd3cf6ebb4710e4a4bbc8d93c3277416698c))
+
+
+
+
+
 ## [0.4.2](https://github.com/AkuaLabs/utilities/compare/@akualabs/eslint-config@0.4.0...@akualabs/eslint-config@0.4.2) (2021-12-04)
 
 **Note:** Version bump only for package @akualabs/eslint-config

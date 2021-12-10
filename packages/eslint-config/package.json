@@ -1,6 +1,6 @@
 {
   "name": "@akualabs/eslint-config",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "description": "ESLint configuration for Akua Projects",
   "author": "@akualabs",
   "homepage": "https://github.com/AkuaLabs/utilities/tree/main/packages/eslint-config",
