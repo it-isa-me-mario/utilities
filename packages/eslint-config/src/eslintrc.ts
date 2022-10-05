@@ -101,7 +101,7 @@ export const eslintConfig = {
     "@typescript-eslint/no-unnecessary-qualifier": 2,
     "@typescript-eslint/no-unnecessary-type-arguments": 2,
     "@typescript-eslint/non-nullable-type-assertion-style": 2,
-    "@typescript-eslint/prefer-enum-initializers": 2,
+    "@typescript-eslint/prefer-enum-initializers": 0,
     "@typescript-eslint/prefer-for-of": 2,
     "@typescript-eslint/prefer-function-type": 2,
     "@typescript-eslint/prefer-includes": 2,
@@ -133,10 +133,7 @@ export const eslintConfig = {
       "never",
     ],
     "array-callback-return": 2,
-    "arrow-body-style": [
-      2,
-      "as-needed",
-    ],
+    "arrow-body-style": 0,
     "arrow-parens": [
       2,
       "as-needed",
@@ -224,18 +221,12 @@ export const eslintConfig = {
       2,
       "unix",
     ],
-    "lines-between-class-members": [
-      2,
-      "always",
-    ],
+    "lines-between-class-members": 0,
     "multiline-ternary": [
       2,
       "always-multiline",
     ],
-    "new-parens": [
-      2,
-      "never",
-    ],
+    "new-parens": 0,
     "newline-per-chained-call": [
       2,
       {
@@ -246,17 +237,7 @@ export const eslintConfig = {
     "no-constructor-return": 2,
     "no-dupe-class-members": 0,
     "no-duplicate-imports": 2,
-    "no-extra-parens": [
-      2,
-      "all",
-      {
-        "conditionalAssign": false,
-        "enforceForArrowConditionals": false,
-        "ignoreJSX": "all",
-        "nestedBinaryExpressions": false,
-        "returnAssign": false,
-      },
-    ],
+    "no-extra-parens": 0,
     "no-multi-spaces": [
       2,
       {
@@ -303,7 +284,7 @@ export const eslintConfig = {
       "always",
     ],
     "prefer-const": 2,
-    "prefer-destructuring": 2,
+    "prefer-destructuring": 0,
     "prefer-object-spread": 2,
     "prefer-template": 2,
     "quotes": [
